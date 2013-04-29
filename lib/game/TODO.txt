@@ -1,0 +1,16 @@
+Before release
+
+Preferred Gameplay
+- Speed of enemies and you increases with time (or leave it at spawn freq...)
+- Star power (item powerup, or every X score maybe?)
+- Final score multiplied by time spent alive
+
+Maybe
+- player entity is triangle that points in direction of movement?
+- timer counts down until color switch (with visual indicator)?
+
+Preferred Polish
+- volume control
+
+- level generation?
+- new harder level on all clear?

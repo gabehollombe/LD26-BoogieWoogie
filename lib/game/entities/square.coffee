@@ -6,7 +6,7 @@ ig.module( 'game.entities.square')
   MIN_HEIGHT = 16
   MIN_VEL = 20
   MAX_VEL = 100
-  COLORS = ['red', 'blue', 'yellow', 'white', 'beige']
+  COLORS = ['red', 'blue', 'yellow', 'white', 'green']
   SECS_UNTIL_ACTIVE = 1
 
   window.EntitySquare = ig.Entity.extend
@@ -102,5 +102,5 @@ ig.module( 'game.entities.square')
         'yellow': 'ffff3d'
         'white': 'ffffff'
         'black': '0c0a0a'
-        'beige': '908f5f'
+        'green': '6ebe10'
       }[color]
